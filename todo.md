@@ -2,4 +2,4 @@
 - [x] add keyboard 
 - [ ] add 0.5 curve at edge of bottom base (keyboard area)
 - [x] make rear side 2d
-- [ ] make side buttons & port covers
+- [x] make side buttons & port covers
